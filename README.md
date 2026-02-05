@@ -1,4 +1,4 @@
-## 🌦️ Telangana Weather Pattern Analysis – Power BI
+## 🌦️ Telangana Weather Pattern Analysis – Power Bi
 
 #### `📌 Project Overview`
 - This project focuses on analyzing and visualizing weather patterns across Telangana using Power BI.
